@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inline CSS</title>
+</head>
+<body>
+    <h2 style="color:blue;">Event Registration Form</h2>
+    <input type="text" style="width:200px; padding:8px;">
+</body>
+</html>
